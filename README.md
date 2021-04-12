@@ -3,7 +3,7 @@ Examples of sorts like :
 
 * Merge sort in O(*n* lg(*n*))
 
-* Heap sort in O(*n*lg(*n*))
+* Heap sort in O(*n* lg(*n*))
 
 * Insertion sort in O(*n*<sup>2</sup>)
 
