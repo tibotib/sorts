@@ -11,4 +11,4 @@ Examples of sorts like :
 
 * Quick sort in O(*n*<sup>2</sup>)
 
-* Counting sort in  O(*n)
+* Counting sort in  O(*n*)
